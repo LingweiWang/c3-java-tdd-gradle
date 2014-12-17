@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.nightschool.model.CartTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2014-12-17T12:37:20" hostname="appletekiMacBook-Pro.local" time="0.061">
+  <properties/>
+  <testcase name="should_there_be_1_more_when_buy_3_freshDisk" classname="org.nightschool.model.CartTest" time="0.053"/>
+  <testcase name="should_there_always_be_2_plus_1_when_buy_freshDisk" classname="org.nightschool.model.CartTest" time="0.001"/>
+  <testcase name="should_be_able_to_remove_a_disk_from_cart" classname="org.nightschool.model.CartTest" time="0.0"/>
+  <testcase name="should_there_be_95percent_sale_when_buy_1TBhardDisk" classname="org.nightschool.model.CartTest" time="0.001"/>
+  <testcase name="should_cart_be_empty_when_no_disk_added" classname="org.nightschool.model.CartTest" time="0.0"/>
+  <testcase name="should_there_be_20_bonus_when_buy_200_bucks_marriageDisk" classname="org.nightschool.model.CartTest" time="0.0"/>
+  <testcase name="should_there_be_1_more_when_buy_2_freshDisk" classname="org.nightschool.model.CartTest" time="0.0"/>
+  <testcase name="should_there_be_10_bonus_when_buy_100_bucks_marriageDisk" classname="org.nightschool.model.CartTest" time="0.0"/>
+  <testcase name="should_be_able_to_check_disk_attr" classname="org.nightschool.model.CartTest" time="0.0"/>
+  <testcase name="should_cart_be_able_to_add_disk_to_cart" classname="org.nightschool.model.CartTest" time="0.0"/>
+  <testcase name="test_count" classname="org.nightschool.model.CartTest" time="0.001"/>
+  <testcase name="should_be_able_to_count_kinds_of_disks" classname="org.nightschool.model.CartTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

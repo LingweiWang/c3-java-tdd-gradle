@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.nightschool.demo.CalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2014-12-17T12:37:20" hostname="appletekiMacBook-Pro.local" time="0.016">
+  <properties/>
+  <testcase name="should_three_multiply_two_equal_six" classname="org.nightschool.demo.CalculatorTest" time="0.015"/>
+  <testcase name="should_three_minus_two_equal_one" classname="org.nightschool.demo.CalculatorTest" time="0.001"/>
+  <testcase name="should_one_plus_two_equal_three" classname="org.nightschool.demo.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

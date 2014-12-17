@@ -1,4 +1,6 @@
-c3-java-tdd-gradle
-==================
+# 内容大纲
 
-3rd homework
++ Gradle getting started
++ IntelliJ short cut
++ Unit test with Junit
+
